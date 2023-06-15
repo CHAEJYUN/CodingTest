@@ -1,6 +1,6 @@
 package Doit;
 
-public class 연습1_1 {
+public class 연습1_01 {
 	
 	static int max4(int a, int b, int c, int d) {
 		int max = a;

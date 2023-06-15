@@ -1,6 +1,6 @@
 package Doit;
 
-public class 연습1_4 {
+public class 연습1_04 {
 	
 	static int med3(int a, int b, int c) {
 		if (a >= b) {

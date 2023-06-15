@@ -1,6 +1,6 @@
 package Doit;
 
-public class 연습1_2 {
+public class 연습1_02 {
 	
 	static int min3(int a, int b, int c) {
 		int min = a;
