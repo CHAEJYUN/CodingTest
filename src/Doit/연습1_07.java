@@ -10,7 +10,11 @@ public class 연습1_07 {
 			int n = sc.nextInt();
 			
 			int sum = 0;
-
+			
+			for (int i = 1; i < n; i++) {
+				sum = (1 + n) * (n / 2) + (n  % 2 == 1 ? (n + 1) / 2 : 0);
+			}
+			System.out.println(sum);
 	}
 
 }
