@@ -10,7 +10,14 @@ public class 연습1_06 {
 			int n = sc.nextInt();
 			
 			int sum = 0;
-
+			int i = 1;
+			
+			while (i <= n) {
+				sum += i;
+				i++;
+			}
+			System.out.println("sum의 값 : " + sum);
+			System.out.println("i의 값 :  " + i);
 	}
 
 }

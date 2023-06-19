@@ -9,7 +9,6 @@ import java.util.StringTokenizer;
 public class no_11382 {
 
 	public static void main(String[] args) throws IOException{
-		// TODO Auto-generated method stub
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
@@ -18,7 +17,6 @@ public class no_11382 {
 		long C = Long.parseLong(st.nextToken());
 		
 		System.out.println(A + B + C);
-
 	}
 
 }

@@ -3,7 +3,6 @@ package baekjoon;
 public class no_10172 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		System.out.println("|\\_/|");
 		System.out.println("|q p|   /}");

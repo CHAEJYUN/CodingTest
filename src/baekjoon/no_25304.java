@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class no_25304 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
 		int x = sc.nextInt(); //영수증 총 금액

@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class no_1001 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -14,7 +13,6 @@ public class no_1001 {
 		int B = sc.nextInt();
 		
 		System.out.println(A - B);
-
 	}
 
 }
