@@ -6,15 +6,15 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class no_27866 {
+public class no_11654 {
 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
 		String s = sc.nextLine();
-		int i = sc.nextInt();
-		
-		System.out.println(s.charAt(i-1));
+		char c = s.charAt(0);
+
+		System.out.println((int)(c));
 	}
 
 }
