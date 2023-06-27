@@ -11,6 +11,7 @@ public class 실습3_3선형검색보초법 {
 
 		while (true) {
 			if (a[i] == key) //성공
+				//for (i = 0; a[i] != key; i++) ;
 				break;
 			i++;
 		}
